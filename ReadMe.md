@@ -1,3 +1,3 @@
 # Simon game
 
-This is my first project
+This is my first javascript project
