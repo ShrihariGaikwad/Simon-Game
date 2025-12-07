@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#game {
+    /* width: 505px; */
+    margin-top: 20px;
+    
+}
+
+.color {
+    display: inline-block;
+    height: 250px;
+    width: 350px;
+    border: 10px solid black;
+    border-radius: 5%;
+}
+
+.color1 {
+    margin: 0 15px 15px 350px;
+    background-color: #f99b45;
+}
+
+.color2 {
+    margin: 0 0 15px 0;
+    background-color: #819ff9;
+}
+
+.color3 {
+    margin: 0 15px 0 350px;
+    background-color: #d95980;
+}
+
+.color4 {
+    margin: 0 0 0 0;
+    background-color: #63aac0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.gameFlash {
+    background-color: white; 
+}
+
+.userFlash {
+    background-color: green; 
+}
+
+#highScore {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-weight: bold;
+}
